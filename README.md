@@ -65,6 +65,11 @@ Performance differences were analyzed and documented.
  - Performance varies depending on data preprocessing and scaling.
  - Climate systems introduce inherent modeling uncertainty.
 
+## Future Technical Improvements
+ - Implement cross-validation for deep learning models.
+ - Explore ensemble neural networks.
+ - Integrate additional climate variables.
+
 ## Recommendations
    **ClimateWins should:**
  - Combine Random Forest (for interpretability), CNN (for pattern recognition), and LSTM (for temporal forecasting).
