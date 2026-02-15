@@ -1,24 +1,53 @@
 # ClimateWins: Machine Learning with Python
-## **Advanced Climate Pattern Detection & Predictive Modeling**
+## **Deep Learning, Hyperparameter Optimization & Model Evaluation**
 
-**Project Overview**
-This repository contains a comprehensive machine learning analysis of European climate data conducted as part of the ClimateWins initiative-- a CareerFoundry Course Project
+## **Project Overview**
+This repository focuses on building, optimizing, and evaluating advanced machine learning models using European climate data.
 
-The objective of this project is to leverage supervised and deep learning techniques to:
-- Detect abnormal weather patterns across Europe
-- Evaluate whether extreme weather events are increasing
-- Forecast potential future climate conditions (25–50 years outlook)
-- Support data-driven decision-making for long-term climate resilience
+## **The emphasis is on:**
+- Implementing neural network architectures using Keras
+- Comparing deep learning models with traditional supervised learning models
+- Evaluating model performance using structured metrics
+- Applying hyperparameter optimization techniques
+- Visualizing training behavior and performance outcomes
 
-The project progresses from classical supervised learning models to advanced deep learning architectures, including CNN and RNN/LSTM networks.
+## **The objectives are to:**
+- Build complex neural network models using Keras
+- Implement CNN architectures for structured weather pattern detection
+- Develop RNN and LSTM models for sequential climate data
+- Perform hyperparameter tuning to improve model performance
+- Evaluate models using loss curves, accuracy metrics, and confusion matrices
+- Compare performance across model types
 
-# **Project Objectives**
-- Analyze historical climate datasets across Europe
-- Identify predictive relationships between weather variables
-- Compare performance of multiple machine learning models
-- Optimize model performance through hyperparameter tuning
-- Translate analytical findings into strategic climate insights
+## **Models Implemented**
+  **Artificial Neural Network (ANN)**
+  **Convolutional Neural Network (CNN)**
+  **Recurrent Neural Network (RNN)**
+  **Long Short-Term Memory (LSTM)**
+  **Random Forest (Optimization Focus)**
 
-# **Key Questions Addressed**
+ ## **Hyperparameter Optimization** 
+ Experiments conducted include:
+   - Learning rate adjustments
+   - Epoch variations
+   - Activation function comparison
+   - Batch size experimentation
+   - Tree depth and estimator variation (Random Forest)
+  
+Performance differences were analyzed and documented.
 
+ ## **Hyperparameter Optimization** 
+   - Accuracy scoring
+   - Confusion matrices
+   - Training and validation loss curves
+   - Overfitting vs underfitting analysis
+   - Performance comparison across model architectures
 
+## **Hyperparameter Optimization** 
+  - Python
+  - Jupyter Notebook
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Scikit-learn
+  - TensorFlow / Keras
